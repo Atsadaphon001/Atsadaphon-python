@@ -89,16 +89,16 @@ favorite_number = 0.00
 # Boolean variable indicating if you like pizza
 likes_pizza = True
 =======
-favorite_color = 
+favorite_color = 'black'
 
 # Integer variable with the current year
-current_year = 
+current_year = 2568
 
 # Float variable with your favorite number (with decimal)
-favorite_number = 
+favorite_number = 0.00
 
 # Boolean variable indicating if you like pizza
-likes_pizza = 
+likes_pizza = True
 >>>>>>> upstream/main
 
 # Print all variables with descriptive messages
