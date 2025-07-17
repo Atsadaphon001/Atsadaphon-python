@@ -11,11 +11,9 @@ Display result with 2 decimal places
 Show the calculation formula used
 """
 
-
 x = input("1.THB -> USD , 2.USD -> THB = ")
 y = float(input("Amount: "))
 if x == "1":
-    print(f"{y} THB = {y/35.5} USD (Formula: {y} / 35.5)")
-elif x == "2":
-    print(f"{y} USD = {y*35.5} THB (Formula: {y} * 35.5)")
-
+    print(f"{y} THB = {y / 35.5} USD")
+if x == "2":
+    print(f"{y} USD = {y * 35.5} THB")
