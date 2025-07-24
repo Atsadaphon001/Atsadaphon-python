@@ -13,7 +13,7 @@ if age <= 12:
 elif age <=19 :
     print('Teenager')
 elif age <= 59:
-    print('Adult')
+    print('Adult.')
 else:
     print('Senior')
 
