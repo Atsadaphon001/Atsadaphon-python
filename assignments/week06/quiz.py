@@ -6,7 +6,6 @@ return ข้อความต้อนรับในรูปแบบ string
 
 """
 def welcome_message(name, course):
-    # Your Problem 1 solution
     pass
 
 """ เขียน function ชื่อ calculate_circle ที่มีคุณสมบัติดังนี้:
