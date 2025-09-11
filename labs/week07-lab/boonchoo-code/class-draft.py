@@ -8,3 +8,11 @@ class ClassName:
     def method_name(self):
         # Instance method
         return something
+<<<<<<< HEAD
+=======
+
+
+myObj = ClassName(parameters)
+print(myObj.attribute)
+resultFromMethod = myObj.method_name()
+>>>>>>> upstream/main
