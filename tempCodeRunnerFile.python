@@ -1,0 +1,7 @@
+print('=== PERSONAL INFORMATION VALIDATOR ===')
+name = input('Enter your name: ')
+age = input('Enter your age: ')
+Phone = input('Enter your phone number: ')
+
+print('Validation Results:')
+print(f'{name.upper()}')

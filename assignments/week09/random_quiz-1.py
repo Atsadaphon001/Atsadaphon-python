@@ -5,7 +5,7 @@ def test_random():
     attempts = 6
     
     for num in range(attempts):
-        print(f'รอบที่ {num+1} เเล้วนะเว้ย')
+        print(f'รอบที่ {num+1} ')
         number = int(input(f'input number {num+1}/6 = '))
         if number == random_number:
             print('you win เก่งวะๆ')
